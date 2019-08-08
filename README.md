@@ -1,5 +1,6 @@
-# Starbuck-s-Capstone-Project
+# Starbucks-Capstone-Project
 
+[Udacity Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025) 
 
 # Installation 
 - Python versions 3.*.
